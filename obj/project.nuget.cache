@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NrWxvb+GX4ZaJ7oE6ABaPc/Rvr9vhlhPUywdr7cRCLNEajkBJQ/PLkduOkbyylDydmw3G6maZ5vwEkMCIdNb3A==",
+  "dgSpecHash": "DBjse33Cyn0IHl/JwVRRR6GdzbXYLdwhsFRBQR1Sac/7OXldnmK0lJtcKm5DUrS+nv7Lr0oW4Y3DJZYKc6n1og==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thiag\\workspace\\dotnet-ef-marvel\\dotnet-ef-marvel.csproj",
+  "projectFilePath": "c:\\Users\\thiag\\workspace\\dotnet-ef-marvel\\dotnet-ef-marvel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thiag\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

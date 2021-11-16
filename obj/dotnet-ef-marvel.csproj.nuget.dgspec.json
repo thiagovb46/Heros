@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thiag\\workspace\\dotnet-ef-marvel\\dotnet-ef-marvel.csproj": {}
+    "c:\\Users\\thiag\\workspace\\dotnet-ef-marvel\\dotnet-ef-marvel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thiag\\workspace\\dotnet-ef-marvel\\dotnet-ef-marvel.csproj": {
+    "c:\\Users\\thiag\\workspace\\dotnet-ef-marvel\\dotnet-ef-marvel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thiag\\workspace\\dotnet-ef-marvel\\dotnet-ef-marvel.csproj",
+        "projectUniqueName": "c:\\Users\\thiag\\workspace\\dotnet-ef-marvel\\dotnet-ef-marvel.csproj",
         "projectName": "dotnet-ef-marvel",
-        "projectPath": "C:\\Users\\thiag\\workspace\\dotnet-ef-marvel\\dotnet-ef-marvel.csproj",
+        "projectPath": "c:\\Users\\thiag\\workspace\\dotnet-ef-marvel\\dotnet-ef-marvel.csproj",
         "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thiag\\workspace\\dotnet-ef-marvel\\obj\\",
+        "outputPath": "c:\\Users\\thiag\\workspace\\dotnet-ef-marvel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -10,8 +10,8 @@ using src.Context;
 namespace dotnet_ef_marvel.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20211109033544_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20211113012848_First Migration")]
+    partial class FirstMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

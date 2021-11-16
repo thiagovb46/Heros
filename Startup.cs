@@ -29,7 +29,7 @@ namespace dotnet_ef_marvel
         public void ConfigureServices(IServiceCollection services)
         {
             //var ConnectionString = Configuration.GetSection("Server=DESKTOP-UVICTST\\SQLEXPRESS;Database=Cursomvc;Integrated Security=True");
-            services.AddDbContext<DataContext>(options=> options.UseSqlServer("Server=DESKTOP-UVICTST\\SQLEXPRESS;Database=Cursomvc;Integrated Security=True"));
+            services.AddDbContext<DataContext>(options=> options.UseSqlServer("Server=DESKTOP-UVICTST\\SQLEXPRESS;Database=DbDio;Integrated Security=True"));
             services.AddScoped<DataContext, DataContext>();
             services.AddControllers();
             services.AddSwaggerGen(c =>

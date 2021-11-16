@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = dotnet_ef_marvel
-build_property.ProjectDir = C:\Users\thiag\workspace\dotnet-ef-marvel\
+build_property.ProjectDir = c:\Users\thiag\workspace\dotnet-ef-marvel\
